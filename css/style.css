@@ -1,5 +1,5 @@
 html{
-  background: url(https://s3.amazonaws.com/makeitreal/cars/jaguar-xe.jpg) no-repeat fixed;
+  background: url(https://s3.amazonaws.com/makeitreal/cars/jaguar-xe.jpg) no-repeat fixed 50% 50%;
   background-size: cover;
   font-family: 'Roboto', Arial sans-serif;
 }
